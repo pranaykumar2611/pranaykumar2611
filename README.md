@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranaykumar2611
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me aranaykumar2611@gmail.com
