@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranaykumar2611
 - 👀 I’m interested in Machine Learing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me aranaykumar2611@gmail.com
 
